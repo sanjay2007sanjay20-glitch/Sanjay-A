@@ -1,0 +1,6 @@
+{
+  "name": "SOS Connect",
+  "description": "AI-assisted emergency guidance, verified emergency services, location sharing, and emergency resources in one place.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

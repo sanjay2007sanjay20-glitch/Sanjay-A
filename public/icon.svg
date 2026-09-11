@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="108" fill="#0f172a"/>
+  <circle cx="256" cy="256" r="190" fill="#1e293b" stroke="#334155" stroke-width="8"/>
+  <!-- SOS beacon ring -->
+  <circle cx="256" cy="256" r="140" fill="#dc2626" opacity="0.15"/>
+  <circle cx="256" cy="256" r="110" fill="#dc2626"/>
+  <!-- Cross / Life-saving emblem -->
+  <path d="M232 186 h48 v46 h46 v48 h-46 v46 h-48 v-46 h-46 v-48 h46 z" fill="#ffffff" rx="6"/>
+  <!-- Signal radar waves -->
+  <path d="M140 210 A140 140 0 0 1 140 302" fill="none" stroke="#f87171" stroke-width="12" stroke-linecap="round"/>
+  <path d="M372 210 A140 140 0 0 0 372 302" fill="none" stroke="#f87171" stroke-width="12" stroke-linecap="round"/>
+  <path d="M100 180 A190 190 0 0 1 100 332" fill="none" stroke="#ef4444" stroke-width="10" stroke-linecap="round" opacity="0.7"/>
+  <path d="M412 180 A190 190 0 0 0 412 332" fill="none" stroke="#ef4444" stroke-width="10" stroke-linecap="round" opacity="0.7"/>
+</svg>
